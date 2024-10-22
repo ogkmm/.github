@@ -11,14 +11,16 @@
 
 <h1 align="center">Welcome to pickupnote</h1>
 
-![pickupnote_banner](https://github.com/ogkmm/.github/assets/21698963/d8bfd5fb-5ce6-4299-a888-fcec67fee0b5)
+<p align="center">
+  <img alt="logo" src="../img/logo.jpg" />
+</p>
 
 <p align="center">
   <a href="https://twitter.com/pickupnote"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fpickupnote&style=flat-square&logo=x&label=pickupnote&link=https%3A%2F%2Ftwitter.com%2Fpickupnote"></a>
   <a href="https://pickupnote.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fpickupnote.com&style=flat-square"></a>
 </p>
 
-<p align="center"><a href="https://pickupnote.com">Website</a> | <a href="">Download</a></p>
+<p align="center"><a href="https://pickupnote.com">Website</a> | <a href="https://apps.apple.com/app/pickupnote-collect-my-music/id6478777973">Download</a></p>
 
 Sounds picked up will resonate again.
 
@@ -48,5 +50,4 @@ You can also find us on the following SNS to see what interesting things we are 
 - [即刻](https://okjk.co/XfwCJ1)
 - [X](https://twitter.com/pickupnote)
 
-If you have any questions or suggestions, please contact us at **contact@pickupnote.com**.
-
+If you have any questions or suggestions, please contact us at **pickupnote@163.com**.
